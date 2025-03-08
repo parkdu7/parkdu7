@@ -32,21 +32,21 @@
 #### 🍽 치팅데이 (2024.07 ~ 2024.08)
 - 멋쟁이사자처럼 12기 중앙해커톤 참가 프로젝트
 - GPT API 활용한 식단 분석 및 주간/월간 레포트 기능 구현
-- **[레포 링크](#https://github.com/Live-Healthy-Die-Healthy/FrontEnd) | [프론트 배포 링크](#https://live-healthy-die-healthy.github.io/FrontEnd/)**
+- **[Repository](https://github.com/Live-Healthy-Die-Healthy/FrontEnd) | [DeployLink](https://live-healthy-die-healthy.github.io/FrontEnd/)**
 
 #### 💻 MySpec (2024.10 ~ 2024.11)
 - Electron을 활용한 컴퓨터 하드웨어 스펙 측정 웹 앱
 - 크롤링 기반 하드웨어 점수 랭킹 시스템 구축
-- **[레포 링크](#https://github.com/CapstonDesign-2) | [프론트 배포 링크](#https://lustrous-starburst-fc4ad8.netlify.app/)**
+- **[Repository](https://github.com/CapstonDesign-2) | [DeployLink](https://lustrous-starburst-fc4ad8.netlify.app/)**
 
 #### 📚 몽당불 (2024.09 ~ 2024.12)
 - 온라인 독서 토론 플랫폼 개발 (Socket.io + Claude API)
 - 실시간 토론 요약 기능 구현
-- **[레포 링크](#https://github.com/OnelineBookClass) | [프론트 배포 링크](#https://mongdangbul.netlify.app/main)**
+- **[Repository](https://github.com/OnelineBookClass) | [DeployLink](https://mongdangbul.netlify.app/main)**
 
 #### 🔗 Sequence (2024.10 ~ 진행 중)
 - 홍대-고대 교류 커뮤니티 플랫폼 개발 (TypeScript 적용)
-- **[레포 링크](#https://github.com/seungyun-Park/sequence) | [프론트 배포 링크](#https://seungyun-park.github.io/sequence/)**
+- **[Repository](https://github.com/seungyun-Park/sequence) | [DeployLink](https://seungyun-park.github.io/sequence/)**
 
 #### 🌱 Iot 시스템 백엔드 프로젝트 (FastAPI, MQTT)
 - ESP32와의 통신을 위한 MQTT Publish/Subscribe 기능 구현
